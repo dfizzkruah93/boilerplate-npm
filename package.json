@@ -1,6 +1,6 @@
 {
-	"author": "George D. Kruah"
 	"name": "fcc-learn-npm-package-json",
+	"author": "dfizzkruah93", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
