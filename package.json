@@ -3,6 +3,7 @@
 	"author": "dfizzkruah93",
         "description": "A project that does something awesome",	
 	"keywords": [ "microverse", "freecodecamp", "alx" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
